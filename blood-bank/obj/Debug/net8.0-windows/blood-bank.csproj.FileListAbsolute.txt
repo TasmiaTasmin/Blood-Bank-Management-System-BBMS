@@ -1,0 +1,16 @@
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\Blood_Bank_Management.AllUserList.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\Blood_Bank_Management.DonationForm.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\Blood_Bank_Management.DonationLogForm.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\blood_bank.Form1.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\Blood_Bank_Management.MainWindow.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\blood_bank.Properties.Resources.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\Blood_Bank_Management.RecipientForm.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\Blood_Bank_Management.RecipientLogForm.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\Blood_Bank_Management.StorageForm.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\Blood_Bank_Management.UserRegistration.resources
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\blood-bank.csproj.GenerateResource.cache
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\blood-bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\blood-bank.AssemblyInfoInputs.cache
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\blood-bank.AssemblyInfo.cs
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\blood-bank.csproj.CoreCompileInputs.cache
+E:\GitHub\Blood-Bank-Management-System-BBMS\blood-bank\obj\Debug\net8.0-windows\blood-bank.sourcelink.json
